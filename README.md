@@ -5,11 +5,11 @@
 Generate Python type stubs from JSON, YAML, YML and TOML for IDE autocomplete.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/github/license/grib-i/typegen?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen?tab=MIT-1-ov-file)
 [![GitHub](https://img.shields.io/github/stars/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen)
 
 </div>
-
+\n
 ## Installation
 
 ### Linux
@@ -110,10 +110,4 @@ Generated:
     └── _typegen/
         ├── config.pyi
         └── tasks.pyi
-```
-
-For all available options:
-
-```bash
-typegen generate --help
 ```
