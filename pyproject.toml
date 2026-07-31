@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "typegen"
 version = "0.1.2"
-description = "Generate Python typing stubs from JSON/YAML/TOML data"
+description = "Generate Python typing stubs from JSON/YAML/YML/TOML data"
 requires-python = ">=3.11"
 dependencies = [
     "PyYAML>=6.0.2",
