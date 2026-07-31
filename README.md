@@ -1,13 +1,12 @@
-<div align="center">
+# TypeGen
+
 Generate Python type stubs from JSON, YAML, YML and TOML for IDE autocomplete.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/github/license/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen?tab=MIT-1-ov-file)
 [![GitHub](https://img.shields.io/github/stars/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen)
 
-<br><br>
-
-</div>
+---
 
 ## Installation
 
@@ -51,9 +50,7 @@ python -m pip install --user pipx
 pipx ensurepath
 ```
 
-> on linux distrs is recommended install pipx through package manager
-
----
+on linux distrs is recommended install pipx through package manager
 
 ---
 
