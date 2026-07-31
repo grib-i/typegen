@@ -8,8 +8,10 @@ Generate Python type stubs from JSON, YAML, YML and TOML for IDE autocomplete.
 [![License](https://img.shields.io/github/license/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen?tab=MIT-1-ov-file)
 [![GitHub](https://img.shields.io/github/stars/grib-i/typegen?style=for-the-badge)](https://github.com/grib-i/typegen)
 
+<br><br>
+
 </div>
-\n
+
 ## Installation
 
 ### Linux
