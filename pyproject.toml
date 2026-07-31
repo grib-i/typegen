@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "typegen"
+version = "0.1.2"
+description = "Generate Python typing stubs from JSON/YAML/TOML data"
+requires-python = ">=3.11"
+dependencies = [
+    "PyYAML>=6.0.2",
+]
+
+[project.scripts]
+typegen = "typegen.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
