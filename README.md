@@ -20,7 +20,7 @@ cd typegen
 ```
 
 ```bash
-pipx install .
+pipx install -e .
 ```
 
 ### Windows
@@ -34,7 +34,7 @@ cd typegen
 ```
 
 ```bash
-pipx install .
+pipx install -e .
 ```
 
 ### Requirements
